@@ -1,2 +1,2 @@
-# benbitdiddle12.github.io
-Ben Bitdiddle's Personal Portfolio
+# nooralasa.github.io/portfolio
+Noor's Personal Portfolio
