@@ -1,2 +1,2 @@
-# nooralasa.github.io/portfolio
+# nooralasa.github.io
 Noor's Personal Portfolio
